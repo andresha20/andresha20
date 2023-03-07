@@ -16,6 +16,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![imagen1](https://firebasestorage.googleapis.com/v0/b/proyectocesde1aha.appspot.com/o/imagen1.jpg?alt=media&token=0bf39d83-3663-41bd-9f56-419323fcddd8)
 
 <!---
 andresha20/andresha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
