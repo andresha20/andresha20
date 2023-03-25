@@ -1,5 +1,5 @@
 
-# Greetings, I'm Andrés Henao Alzate
+# Greetings, I'm Andrés Henao Alzate (https://www.linkedin.com/in/andresha20/)
 
 - 👋 Hi, I’m @andresha20
 - :blue_book: I study accounting but I also like to code quite often.
