@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @andresha20
 - :blue_book: I study accounting but I also like to code quite often.
-- :eyeglasses: I have been programming for over 2 years and a half now and I can confidently say that programming is my main passion.
+- :eyeglasses: I have been programming for over 2 years and a half now, and I can confidently say that programming is my main passion.
 - 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around coding to eventually build something iconic.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
