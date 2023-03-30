@@ -6,6 +6,7 @@
 - :eyeglasses: I have been programming for over 2 years and a half now, and I can confidently say that programming is my main passion.
 - 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around coding to eventually build something iconic.
 
+# Technologies I've worked with:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
