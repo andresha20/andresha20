@@ -3,8 +3,8 @@
 
 - 👋 Hi, I’m @andresha20
 - :blue_book: I study accounting at Politécnico Jaime Isaza Cadavid but I love coding.
-- :eyeglasses: I have been programming for over 2 years and a half now, and I can confidently say that programming is my main passion.
-- 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around coding to eventually build something iconic.
+- :eyeglasses: I have been programming for over 2 years and a half now, and I can confidently say that programming is my main passion. 
+- 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with is the MERN stack.
 
 # Technologies I've worked with:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
