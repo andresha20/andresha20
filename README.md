@@ -2,7 +2,7 @@
 # Greetings, I'm Andrés Henao Alzate (https://www.linkedin.com/in/andresha20/)
 
 - 👋 Hi, I’m @andresha20
-- :blue_book: I study accounting but I also like to code quite often.
+- :blue_book: I study accounting at Politécnico Jaime Isaza Cadavid but I love coding.
 - :eyeglasses: I have been programming for over 2 years and a half now, and I can confidently say that programming is my main passion.
 - 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around coding to eventually build something iconic.
 
