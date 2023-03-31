@@ -6,7 +6,9 @@
 - :eyeglasses: I have been programming for over 2 years and a half now, and I can confidently say that programming is my main passion. 
 - 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are the MERN & NEXT.JS stack (I've worked with this stack for 1+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of Java. Looking forth into learning Swift and React Native.
 
-# Technologies I've worked with:
+# Technologies I've worked and feel confident with:
+
+I can be told to develop something using any of these technologies and I'll do it satisfactorily:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
