@@ -24,6 +24,7 @@ If I was told to develop something using any of these technologies, I'd do it sa
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ![imagen1](https://firebasestorage.googleapis.com/v0/b/proyectocesde1aha.appspot.com/o/imagen1.jpg?alt=media&token=0bf39d83-3663-41bd-9f56-419323fcddd8)
 
