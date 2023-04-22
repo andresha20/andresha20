@@ -27,11 +27,14 @@ If I was told to develop something using any of these technologies, I'd do it sa
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 # My specialty
+
+These are the technologies I feel the most fluent and knowledgeable about:
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![imagen1](https://firebasestorage.googleapis.com/v0/b/proyectocesde1aha.appspot.com/o/imagen1.jpg?alt=media&token=0bf39d83-3663-41bd-9f56-419323fcddd8)
 
