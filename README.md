@@ -36,7 +36,7 @@ These are the technologies I feel the most fluent and knowledgeable about:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![imagen1](https://firebasestorage.googleapis.com/v0/b/proyectocesde1aha.appspot.com/o/imagen1.jpg?alt=media&token=0bf39d83-3663-41bd-9f56-419323fcddd8)
+![WhatsApp Image 2023-04-29 at 19 55 59](https://user-images.githubusercontent.com/80694673/235330393-29701811-3532-43c9-b9fe-009a114797e2.jpeg)
 
 <!---
 andresha20/andresha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
