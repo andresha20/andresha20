@@ -6,9 +6,12 @@
 - :eyeglasses: I have been programming for over 2 years and a half now (started on 18/12/2020), and I can confidently say that programming is my main passion. 
 - 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are the MERN & NEXT.JS stack (I've worked with this stack for 1+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of Java. I wish I had learned Typescript earlier. Looking forth to learning Swift and React Native.
 
-### Currently learning: C# and .NET
+## Currently learning
 
-# Technologies I've worked and feel confident with
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+## Technologies I've worked and feel confident with
 
 If I was told to develop something using any of these technologies, I'd do it satisfactorily:
 
@@ -29,7 +32,7 @@ If I was told to develop something using any of these technologies, I'd do it sa
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-# My specialty
+## My specialty
 
 These are the technologies I feel the most fluent and knowledgeable about based on the time I've invested learning and most importantly, coding:
 
