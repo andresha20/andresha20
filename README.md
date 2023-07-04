@@ -31,7 +31,7 @@ If I was told to develop something using any of these technologies, I'd do it sa
 
 # My specialty
 
-These are the technologies I feel the most fluent and knowledgeable about:
+These are the technologies I feel the most fluent and knowledgeable about based on the time I've invested learning and most importantly, coding:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
