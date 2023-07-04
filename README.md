@@ -38,6 +38,7 @@ These are the technologies I feel the most fluent and knowledgeable about based 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![WhatsApp Image 2023-04-29 at 19 55 59](https://user-images.githubusercontent.com/80694673/235330393-29701811-3532-43c9-b9fe-009a114797e2.jpeg)
 
