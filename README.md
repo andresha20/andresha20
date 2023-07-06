@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @andresha20
 - :blue_book: I study accounting at Politécnico Jaime Isaza Cadavid but I love coding.
 - :eyeglasses: I have been programming for over 2 years and a half now (started on 18/12/2020), and I can confidently say that programming is my main passion. 
-- 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are the MERN & NEXT.JS stack (I've worked with this stack for 1+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of Java. I wish I had learned Typescript earlier. Looking forth to learning Swift and React Native.
+- 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are the MERN & NEXT.JS stack (I've worked with this stack for 1+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
 
 ## Currently learning
 
