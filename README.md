@@ -6,10 +6,11 @@
 - :eyeglasses: I have been programming for 3 years (started on 18/12/2020), and I can confidently say that programming is my main passion. 
 - 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are Salesforce, and MERN with NEXT.JS (I've worked with this stack for 1+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
 
-## Certified Salesforce Developer
-
+## Certified Salesforce Associate
 ![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-<br><b>Credential ID:</b> 4005084 | andreshenao.2021@gmail.com | Verify [here](http://sforce.co/verifycerts) 
+
+<br><b>Certified Platform Developer</b> | <b>Credential ID:</b> 4005084 | andreshenao.2021@gmail.com | Verify [here](http://sforce.co/verifycerts)
+<br><b>Certified Platform App Builder</b> | <b>Credential ID:</b> 4108163 | andreshenao.2021@gmail.com | Verify [here](http://sforce.co/verifycerts)
 
 ## Technologies I've worked and feel confident with
 
